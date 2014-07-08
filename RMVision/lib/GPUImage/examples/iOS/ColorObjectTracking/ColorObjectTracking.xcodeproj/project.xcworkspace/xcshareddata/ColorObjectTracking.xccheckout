@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>29CE8F7B-7009-47C3-AEB7-AECABC7ABF4C</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ColorObjectTracking</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>D878E056-6129-47C3-BF4C-58AC0460872B</key>
+		<string>https://github.com/Romotive/Software.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>iOS/SDK/RMVision/RMVision/lib/GPUImage/examples/iOS/ColorObjectTracking/ColorObjectTracking.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>D878E056-6129-47C3-BF4C-58AC0460872B</key>
+		<string>../../../../../../../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Romotive/Software.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D878E056-6129-47C3-BF4C-58AC0460872B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D878E056-6129-47C3-BF4C-58AC0460872B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Software</string>
+		</dict>
+	</array>
+</dict>
+</plist>
